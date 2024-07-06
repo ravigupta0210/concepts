@@ -138,19 +138,6 @@ Firewalls inspect these packets to ensure they comply with security rules before
 
 | **Flexibility** | Less flexible, fixed hardware limitations | Highly configurable and adaptable |
 
-### Visual Aids
-
-#### Network Firewall Example
-
-![Networks]([https://images.app.goo.gl/X68KrUBw9ZpYNf9F6](https://images.app.goo.gl/LDuTCgLcAzYM21Jp7))
-
-#### Data Packet Structure
-
-![Data Packet](https://images.app.goo.gl/aq2C96cgd9VdFG999)
-
-#### Hybrid Firewall Architecture
-
-![Hybrid Architecture](https://images.app.goo.gl/wri1yz9wpTkKuG587)
 
 ### Further Reading and Resources
 
